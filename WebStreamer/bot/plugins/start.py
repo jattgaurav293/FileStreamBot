@@ -118,14 +118,13 @@ async def start(b, m):
                     chat_id=m.chat.id,
                     text="<i>Jᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴍᴇ 🔐</i>",
                     reply_markup=InlineKeyboardMarkup(
-                        [
-                           [  
-                               InlineKeyboardButton("Jᴏɪɴ ɴᴏᴡ 🔓", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
-                               InlineKeyboardButton("Command Help", callback_data="home_data")    
-                                
-                            ]
-                        ],
-                    ),
+                       [
+                [
+                    InlineKeyboardButton("Our Group", url="https://t.me/iPopcornMovieGroup"),
+                    InlineKeyboardButton("About Me", callback_data="about_data")
+                ]
+            ],
+        ),
                     parse_mode="HTML"
                 )
                 return
