@@ -120,8 +120,8 @@ async def start(b, m):
                     reply_markup=InlineKeyboardMarkup(
                        [
                 [
-                    InlineKeyboardButton("Our Group", url="https://t.me/iPopcornMovieGroup"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("Jᴏɪɴ ɴᴏᴡ 🔓", url=f"https://t.me/{Var.UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("ᴊᴏɪɴᴇᴅ ✅", callback_data="home_data")
                 ]
             ],
         ),
