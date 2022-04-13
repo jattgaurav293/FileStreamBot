@@ -119,9 +119,9 @@ async def start(b, m):
                     text="<i>Jᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴍᴇ 🔐</i>",
                     reply_markup=InlineKeyboardMarkup(
                         [
-                                [
-                            InlineKeyboardButton("Jᴏɪɴ ɴᴏᴡ 🔓", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
-                            InlineKeyboardButton("Command Help", callback_data="home_data")    
+                           [  
+                               InlineKeyboardButton("Jᴏɪɴ ɴᴏᴡ 🔓", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                               InlineKeyboardButton("Command Help", callback_data="home_data")    
                                 
                             ]
                         ],
