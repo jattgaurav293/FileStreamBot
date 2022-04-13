@@ -22,7 +22,7 @@ HELP_TEXT = """
 <i>- I ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴇxᴛᴇʀɴᴀʟ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ/Stream ʟɪɴᴋ !.</i>
 <i>- Aᴅᴅ Mᴇ ɪɴ ʏᴏᴜʀ Cʜᴀɴɴᴇʟ Fᴏʀ Dɪʀᴇᴄᴛ Dᴏᴡɴʟᴏᴀᴅ Lɪɴᴋs Bᴜᴛᴛᴏɴ</i>
 <i>- Tʜɪs Pᴇʀᴍᴇᴀɴᴛ Lɪɴᴋ Wɪᴛʜ Fᴀsᴛᴇsᴛ Sᴘᴇᴇᴅ</i>\n
-<i>👊Cᴏɴᴛᴀᴄᴛ ʀᴇᴘᴏʀᴛ ʙᴜɢ</i> <b>:-@Gaurav4x</i>"""
+<i><b>👊Cᴏɴᴛᴀᴄᴛ ʀᴇᴘᴏʀᴛ ʙᴜɢ</i> :-</b>@Gaurav4x</i>"""
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ :- FileToLink 4U</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ :- <a href='https://telegram.me/TGTech4U'>1.0</a></b>\n
